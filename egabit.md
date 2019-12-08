@@ -1,7 +1,7 @@
 
     1. Conditions
         1. Challenge 1
-            1. URL:[https://edabit.com/challenge/PTiLYyb4A69KZtBCg](https://edabit.com/challenge/PTiLYyb4A69KZtBCg)
+            1. URL:<https://edabit.com/challenge/PTiLYyb4A69KZtBCg>
             2. [Solution:](https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=1_1.png)
         2. Challenge 2
             1. URL:
