@@ -17,20 +17,20 @@
         2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=1_5.png>        
 2. Arrays
     1. Challenge 1
-        1. URL: <> 
-        2. Solution: <> 
+        1. URL: <https://edabit.com/challenge/5232asan2yFuMGnHq> 
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=2_1.png> 
     2. Challenge 2
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/QaApgtePE6QrCZ64o>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=2_2.png>
     3. Challange 3
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/SwyjHvkqwwQ2iJsoS>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=2_3.png>
     4. Challange 4
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/Qbi3GuXjwW5fsoKRn>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=2_4.png>
     5. Challange 5
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/9ApjPggCLGiPt573m>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=2_5.png>
 3. Loops
     1. Challenge 1
         1. URL: <> 
