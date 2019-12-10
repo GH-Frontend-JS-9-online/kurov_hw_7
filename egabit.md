@@ -33,20 +33,20 @@
         2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=2_5.png>
 3. Loops
     1. Challenge 1
-        1. URL: <> 
-        2. Solution: <> 
+        1. URL: <https://edabit.com/challenge/v9DwaeR6NQoapEvHh> 
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=3_1.png> 
     2. Challenge 2
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/3cBe8af7yG2rzLEA2>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=3_2.png>
     3. Challange 3
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/HTbRYCmPwfZGnBcxW>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=3_3.png>
     4. Challange 4
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/LMhRTq3hccz2D9Lax>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=3_4.png>
     5. Challange 5
-        1. URL: <>
-        2. Solution: <>            
+        1. URL: <https://edabit.com/challenge/WikWd2QhrLbuNLYQ5>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=3_5.png>            
 4. Functional Programming
     1. Challenge 1
         1. URL: <> 
