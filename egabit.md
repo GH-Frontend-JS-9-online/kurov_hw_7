@@ -49,11 +49,11 @@
         2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=3_5.png>            
 4. Functional Programming
     1. Challenge 1
-        1. URL: <> 
-        2. Solution: <> 
+        1. URL: <https://edabit.com/challenge/hzxN9bAebBPNqdQto> 
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=4_1.png> 
     2. Challenge 2
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/tWgCG2PjN6FHq27S7>
+        2. Solution: <https://www.dropbox.com/sh/ry76o26nbsftvvy/AACwXQ80GjrTU9hbCD3JhVIea?dl=0&preview=4_2.png>
     3. Challange 3
         1. URL: <>
         2. Solution: <>
